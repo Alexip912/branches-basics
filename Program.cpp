@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 
+  
 using namespace std; 
 
 float fe(float x,int n){
